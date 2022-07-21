@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti.wallet
+author: Michael Gangolf
+license: Specify your license
+copyright: Copyright (c) 2022 by Your Company
+
+# these should not be edited
+name: ti.wallet
+moduleid: ti.wallet
+guid: d7c2ed8a-f411-40f8-89a4-93f77d4532e1
+platform: android
+minsdk: 11.0.0.GA
